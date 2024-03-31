@@ -2,7 +2,7 @@
 
 ## 프로젝트 소개
 
-본 프로젝트는 전세계 날씨 정보 안내 홈페이지입니다.
+해당 프로젝트는 전세계 날씨 정보 안내 홈페이지입니다.
 **TypeScript와 Zustand , TailwindCss , API 를 연습하기 위한 toy project**입니다.
 
 ## 기술 스택
